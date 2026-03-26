@@ -5,6 +5,7 @@
     --item-hover-bg-color: #282c2e;
     --select-text-bg-color: #3f638b;
     background-color: #1f2325;
+    --mermaid-theme: night;
 }
 
 @include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
