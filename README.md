@@ -2,8 +2,8 @@
 layout: theme
 title: GitHub Dark Vanilla
 category: fork
-homepage: 
-download: 
+homepage: https://github.com/bailitaotao/typora-github-dark-vanilla-theme
+download: https://github.com/bailitaotao/typora-github-dark-vanilla-theme/blob/main/github-dark-vanilla.css
 author: tim
 thumbnail: assets/thumbnail.png
 typora-root-url: ../../
